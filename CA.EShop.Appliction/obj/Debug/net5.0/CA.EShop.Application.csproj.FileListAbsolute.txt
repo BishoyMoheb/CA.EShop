@@ -1,0 +1,15 @@
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\bin\Debug\net5.0\CA.EShop.Application.deps.json
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\bin\Debug\net5.0\CA.EShop.Application.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\bin\Debug\net5.0\ref\CA.EShop.Application.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\bin\Debug\net5.0\CA.EShop.Application.pdb
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\bin\Debug\net5.0\CA.EShop.Domain.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\bin\Debug\net5.0\CA.EShop.Domain.pdb
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\obj\Debug\net5.0\CA.EShop.Application.csproj.AssemblyReference.cache
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\obj\Debug\net5.0\CA.EShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\obj\Debug\net5.0\CA.EShop.Application.AssemblyInfoInputs.cache
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\obj\Debug\net5.0\CA.EShop.Application.AssemblyInfo.cs
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\obj\Debug\net5.0\CA.EShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\obj\Debug\net5.0\CA.EShop.Application.csproj.CopyComplete
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\obj\Debug\net5.0\CA.EShop.Application.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\obj\Debug\net5.0\ref\CA.EShop.Application.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\CA.EShop\CA.EShop.Appliction\obj\Debug\net5.0\CA.EShop.Application.pdb

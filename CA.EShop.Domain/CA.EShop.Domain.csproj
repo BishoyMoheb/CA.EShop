@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Abstractions\Enumeration - Another Source.cs" />
+    <Compile Remove="Shared\GResultExtensions.cs" />
+    <Compile Remove="Shared\IValidationResult.cs" />
+    <Compile Remove="Shared\TValResult.cs" />
+    <Compile Remove="Shared\ValidationResult.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.5.0" />
+  </ItemGroup>
+
+</Project>

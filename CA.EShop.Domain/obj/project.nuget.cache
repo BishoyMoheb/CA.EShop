@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cgw2ppMH0a+0Rj7xhgShRmQv50j/AUHeJaTD4nDjalbyIxahY5tC+jxvQMFxOZo87yS51tcEwa13T8lmNu64Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bishoy Moheb\\Documents\\Visual Studio 2019\\Proj 2019\\CA.EShop\\CA.EShop.Domain\\CA.EShop.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bishoy Moheb\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\Bishoy Moheb\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Bishoy Moheb\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\Bishoy Moheb\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

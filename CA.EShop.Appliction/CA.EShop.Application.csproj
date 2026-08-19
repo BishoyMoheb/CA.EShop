@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Abstraction\IServiceLifeTime\IScoped.cs" />
+    <Compile Remove="Products Creation\ProductDeleting\DProdCmdHandler_01.cs" />
+    <Compile Remove="Products Creation\ProductDeleting\DProdCmdHandler_02.cs" />
+    <Compile Remove="Products Creation\ProductDeleting\DProdCmdHandler_03.cs" />
+    <Compile Remove="Products Creation\ProductUpdating\UProdCmdHandler_01.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Abstraction\IServiceLifeTime\IScoped.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mapster" Version="5.3.2" />
+    <PackageReference Include="Marten" Version="5.0.0" />
+    <PackageReference Include="MediatR" Version="12.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+	<InternalsVisibleTo Include="CA.EShop.WebApi.Settings" />
+    <ProjectReference Include="..\CA.EShop.Domain\CA.EShop.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

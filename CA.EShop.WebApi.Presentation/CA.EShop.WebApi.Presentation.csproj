@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\CProductsController_01.cs" />
+    <Compile Remove="Mod_Product_01.cs" />
+    <Compile Remove="Mod_Product_02.cs" />
+    <Compile Remove="Mod_Product_03.cs" />
+    <Compile Remove="Mod_Product_04.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Carter" Version="5.2.0" />
+    <PackageReference Include="Mapster" Version="7.3.0" />
+    <PackageReference Include="MediatR" Version="12.5.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CA.EShop.Appliction\CA.EShop.Application.csproj" />
+  </ItemGroup>
+
+</Project>
