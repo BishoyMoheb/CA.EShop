@@ -5,3 +5,5 @@ The solution uses records (which is a C# type designed primarily for storing dat
 
 The solution uses also Mod_Product as module for adding routes for IEndpointRouteBuilder mapping functions 
 which uses MediatR ISender interface methods for sending requests/commands and receiving a response.
+
+The solution uses PostgreSQL as its open-source relational database management system (RDBMS).
