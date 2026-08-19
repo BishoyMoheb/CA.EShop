@@ -1,0 +1,25 @@
+version: '3.4'
+
+services:
+  ca.eshop.webapi.settings:
+    image: ${DOCKER_REGISTRY-}caeshopwebapisettings
+    container_name: CA.EShop.WebApi.Settings
+    build:
+      context: .
+      dockerfile: src/CA.EShop.WebApi.Settings/Dockerfile
+    ports:
+      - "5001:80" 
+    depends_on:
+      - CA.EShop-db
+
+  CA.EShop-db:
+    image: postgres:latest
+    container_name: DBConn
+    environment:
+      - POSTGRES_DB=CA.EShop
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - ./.containers/database:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
